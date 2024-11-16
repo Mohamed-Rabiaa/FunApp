@@ -22,7 +22,7 @@ JWT_EXPIRATION=3600s
 `JWT_SECRET_KEY`: Used to generate the authentication token for JWT.  
 
 ## 3. Testing the API:
-Use a tool like Postman or curl to test the API endpoints:
+Use a tool like Postman or curl to test the API endpoints:  
 1- Sign up a new user and generate an auth token.  
 2- Retrieve user profile information:
 Make a `GET` request to the following endpoint, replacing 1 with the user ID:
